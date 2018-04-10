@@ -1,0 +1,27 @@
+{
+  "name": "reggiestringmodule",
+  "version": "0.10.0",
+  "description": "A module that returns alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggiestrain/reggieStringModule.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "crypto",
+    "characters",
+    "alphanumeric"
+  ],
+  "author": "Reginald Strain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reggiestrain/reggieStringModule/issues"
+  },
+  "homepage": "https://github.com/reggiestrain/reggieStringModule#readme"
+}
